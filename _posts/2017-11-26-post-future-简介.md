@@ -6,7 +6,7 @@ categories:
   - Post
 last_modified_at: 2017-03-09T12:45:25-05:00
 ---
-<img src="E:\徐泠钰\学习\2017年上学期\E-Marketing\GP个人博客\xly\xlingyu.github.io\assets\blog-images">
+![Aaron Swartz](https://raw.githubusercontent.com/xlingyu/xlingyu.github.io/master/assets/blog-images/2.jpg)
 关关雎鸠，在河之洲。窈窕淑女，君子好逑。
 参差荇菜，左右流之。窈窕淑女，寤寐求之。
 求之不得，寤寐思服。悠哉悠哉，辗转反侧。
